@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-12-01T08:44:15Z"/>
+
+  <way id="40917193">
+    <nd ref="498282056"/>
+    <nd ref="1540549030"/>
+    <nd ref="1540549029"/>
+    <nd ref="3664996366"/>
+    <nd ref="498282050"/>
+    <nd ref="737808148"/>
+    <nd ref="1533721849"/>
+    <nd ref="498282053"/>
+    <nd ref="498282069"/>
+    <nd ref="498282061"/>
+    <nd ref="1541916694"/>
+    <nd ref="498282064"/>
+    <nd ref="1856926992"/>
+    <nd ref="1541916696"/>
+    <nd ref="498282065"/>
+    <nd ref="2939998450"/>
+    <nd ref="1541916695"/>
+    <nd ref="498282067"/>
+    <nd ref="498282060"/>
+    <nd ref="498282057"/>
+    <nd ref="498282071"/>
+    <nd ref="498282056"/>
+    <tag k="addr:city" v="Екатеринбург"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="620083"/>
+    <tag k="addr:street" v="улица Тургенева"/>
+    <tag k="building" v="university"/>
+    <tag k="building:levels" v="7"/>
+  </way>
+
+</osm>
